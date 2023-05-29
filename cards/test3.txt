@@ -1,0 +1,52 @@
+1. What is SDLC?; "Software Development Life Cycle is a structured sequence of stages in software engineering to develop the intended software product."
+2. What are the steps included in the SDLC framework?; "Communication, Requirement Gathering, Feasibility Study, System Analysis, Software Design"
+3. What is the first step in SDLC?; "Communication"
+4. What happens during the requirement gathering step?; "The team holds discussions with various stakeholders from problem domain and tries to bring out as much information as possible on their requirements."
+5. How are requirements collected during the requirement gathering step?; "By studying the existing or obsolete system and software, conducting interviews of users and developers, referring to the database or collecting answers from the questionnaires."
+6. What is feasibility study?; "It is the step where the team analyzes if a software can be made to fulfill all requirements of the user and if there is any possibility of software being no more useful."
+7. What are the factors considered during feasibility study?; "Financial, practical and technological feasibility for the organization to take up the project."
+8. What happens during system analysis?; "Developers decide a roadmap of their plan and try to bring up the best software model suitable for the project."
+9. What does system analysis include?; "Understanding of software product limitations, learning system related problems or changes to be done in existing systems beforehand, identifying and addressing the impact of project on organization and personnel etc."
+10. What is software design?; "It is the step where the actual software product is designed based on the requirement specifications which were gathered in the previous stage."
+What is the next step after requirements and analysis?; "Designing the software product, with inputs from users and information gathered in requirement gathering phase. The output of this step comes in the form of two designs: logical design and physical design."
+
+What are some examples of what engineers produce during the design phase?; "Engineers produce meta-data and data dictionaries, logical diagrams, data-flow diagrams and in some cases pseudo codes."
+
+What is the coding phase?; "The implementation of software design starts in terms of writing program code in the suitable programming language and developing error-free executable programs efficiently."
+
+Why is testing important?; "Errors may ruin the software from critical level to its own removal. Early discovery of errors and their remedy is the key to reliable software."
+
+What are some levels of testing that are conducted by testing experts?; "Module testing, program testing, product testing, in-house testing and testing the product at user’s end."
+
+What is the integration stage of SDLC involved in?; "The integration of software with outer world entities such as libraries, databases and other programs."
+
+What is the implementation phase?; "Installing the software on user machines. At times, software needs post-installation configurations at user end."
+
+What does the operation and maintenance phase confirm?; "The software operation in terms of more efficiency and less errors."
+
+What is the disposition phase?; "Archiving data and required software components, closing down the system, planning disposition activity and terminating system at appropriate end-of-system time."
+
+What challenges may the operation and maintenance phase face?; "Challenges from hidden bugs and real-world unidentified problems."
+What is software development paradigm?; "It helps developers to select a strategy to develop the software."
+What are the tools, methods and procedures of software development paradigm?; "They are expressed clearly and define software development life cycle."
+What is Waterfall Model?; "It is the simplest model of software development paradigm where all phases of SDLC will function one after another in linear manner."
+What does Waterfall Model assume?; "It assumes that everything is carried out and taken place perfectly as planned in the previous stage and there is no need to think about the past issues that may arise in the next phase."
+When is Waterfall Model best suited?; "It is best suited when developers already have designed and developed similar software in the past and are aware of all its domains."
+What is Iterative Model?; "It leads the software development process in iterations. It projects the process of development in cyclic manner repeating every step after every cycle of SDLC process."
+What is the advantage of Iterative Model?; "After each iteration, the management team can do work on risk management and prepare for the next iteration."
+What is Spiral Model?; "It is a combination of both, iterative model and one of the SDLC model."
+How can Spiral Model be seen?; "It can be seen as if you choose one SDLC model and combine it with cyclic process iterative model."
+What is the disadvantage of Iterative Model?; "It consumes more resources."
+What happens in the first iteration of Iterative Model?; "The software is first developed on very small scale and all the steps are followed which are taken into consideration."
+What happens in every next iteration of Iterative Model?; "More features and modules are designed, coded, tested and added to the software."
+What does every cycle of Iterative Model produce?; "It produces a software, which is complete in itself and has more features and capabilities than that of the previous one."
+1. What is the major drawback of waterfall model?; "We move to the next stage only when the previous one is finished and there was no chance to go back if something is found wrong in later stages."
+2. What is the V-model?; "It provides means of testing of software at each stage in reverse manner."
+3. What happens in the first phase of the model that considers risk?; "Determining objectives and constraints of the software at the start of one iteration."
+4. What happens in the second phase of the model that considers risk?; "Prototyping the software, including risk analysis."
+5. What SDLC model is used to build the software in the model that considers risk?; "One standard SDLC model."
+6. What happens in the fourth phase of the plan in the model that considers risk?; "The plan of next iteration is prepared."
+7. What is the Big Bang Model?; "The simplest model in its form that requires little planning, lots of programming and lots of funds."
+8. What is the input requirement for the Big Bang Model?; "Arbitrary."
+9. Is the Big Bang Model suitable for large software projects?; "No."
+10. What makes verification and validation go in parallel in the V-model?; "At every stage, test plans and test cases are created to verify and validate the product according to the requirement of that stage."

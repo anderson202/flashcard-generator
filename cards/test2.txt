@@ -1,0 +1,10 @@
+Question;Answer
+What are the two designs that come out of the software design step?;Logical design and physical design.
+What is the next step after requirements gathering and analysis in the SDLC?;Designing the software product.
+What is the programming phase also known as?;Coding phase.
+What is the estimate for how much of the software development process should be tested?;50%.
+What is the key to reliable software according to the text?;Early discovery of errors and their remedy.
+What is involved in the integration stage of the SDLC?;Integration of software with outer world entities such as libraries, databases and other programs.
+What does implementation mean in the SDLC?;Installing the software on user machines.
+What is the purpose of the operation and maintenance phase of the SDLC?;To confirm the software operation in terms of more efficiency and less errors and maintain the software timely by updating the code according to changes taking place in user end environment or technology.
+What is the disposition phase of the SDLC?;Archiving data and required software components, closing a major portion of the system.
